@@ -1,4 +1,5 @@
 # LAB6_ARC_IoTDK_Example_Code
+[Updating] 助教已將 4 題 Questions 的解答打在下方，大家若有不懂的可以再來問助教～
 * [Topic](#topic)
 * [Source](#source)
 * [Question Answer](#question-answer)
