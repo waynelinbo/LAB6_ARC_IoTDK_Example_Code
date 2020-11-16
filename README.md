@@ -1,5 +1,5 @@
 # LAB6_ARC_IoTDK_Example_Code
-[Updating] 助教已將自己寫的 4 題 Lab 的 Code 放在上方可供同學參考 (當然，助教寫的不一定是最好的寫法)
+[Updating] 助教已將自己寫的 4 題 Lab 的 Code 放在上方可供同學參考 (當然，助教寫的不一定是最好的寫法)  
 [Updating] 助教已將 4 題 Questions 的解答打在下方，大家若有不懂的可以再來問助教～
 * [Topic](#topic)
 * [Source](#source)
